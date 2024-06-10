@@ -1,6 +1,9 @@
-# 👤 My Avatars
+<!-- markdownlint-disable MD033 MD045 -->
 
-This repository contains the avatars I use on my social media accounts.
+# 👤 My avatars
+
+This repository contains the avatars I use on my social media accounts. The
+stickman's name is Bob, [come say hi](https://github.com/interrrp/avatars/issues/new)!
 
 | Variant                                                                  | Description                                                          |
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------- |
